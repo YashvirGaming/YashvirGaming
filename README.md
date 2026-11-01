@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm YashvirGaming!
 
-<!--
-**YashvirGaming/YashvirGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Languages & Tools
+![Python](https://shields.io)
 
-Here are some ideas to get you started:
+### 🌐 Connect with Me
+[![Facebook](https://shields.io)](https://www.facebook.com/AIMauritiusTech)
+[![Instagram](https://shields.io)](https://www.instagram.com/officialyashvirgaming/)
+[![Discord](https://shields.io)](https://discord.gg/maPaBCP4bt)
+[![X (Twitter)](https://shields.io)](https://x.com/YashvirGamingX)
+[![Telegram](https://shields.io)](https://t.me/YashvirGamingX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 My Live GitHub Stats
+![Yashvir's GitHub stats](https://vercel.app)
+
+![Top Langs](https://vercel.app)
