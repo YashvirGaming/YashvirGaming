@@ -1,18 +1,31 @@
-# 👋 Hello, I'm YashvirGaming!
+# 🕹️ YashvirGaming
 
-### 🛠️ Languages & Tools
-<img src="https://shields.io" alt="Python" />
-
-### 🌐 Connect with Me
-<a href="https://facebook.com"><img src="https://shields.io" alt="Facebook" /></a>
-<a href="https://instagram.com"><img src="https://shields.io" alt="Instagram" /></a>
-<a href="https://discord.gg"><img src="https://shields.io" alt="Discord" /></a>
-<a href="https://x.com"><img src="https://shields.io" alt="X" /></a>
-<a href="https://t.me"><img src="https://shields.io" alt="Telegram" /></a>
+> 🤝 Community & Creator | Python Developer & Pentester
+> Welcome to my official GitHub profile dashboard.
 
 ---
 
-### 📊 My Live GitHub Stats
-<img src="https://vercel.app" alt="Yashvir's GitHub stats" />
+### 🛠️ Languages & Tools
+```python
+# Main Tech Stack
+• Python (App/Tool Development, PySide6, PyWebView)
+• GUI Tooling & Automation Scripts
+• Proxy Management & Network Debugging Tools
+```
 
-<img src="https://vercel.app" alt="Top Langs" />
+---
+
+### 📊 Account Overview
+• **Total Active Repositories:** 60 Projects
+• **Primary Ecosystem:** Python Tools & Streamer Utilities
+• **Core Development Focus:** Open Source & Build In Public
+
+---
+
+### 🌐 Connect with Me
+* **💻 Main Website:** [yashvirgaming.info](https://yashvirgaming.info)
+* **✈️ Telegram Support Channel:** [@YashvirGamingX](https://t.me/YashvirGamingX)
+* **💬 Discord Server:** [Join Community](https://discord.gg/maPaBCP4bt)
+* **📱 Facebook Creator Page:** [Yashvir Gaming Page](https://facebook.com/yashvirgaming.info)
+* **📸 Instagram Feed:** [@officialyashvirgaming](https://instagram.com)
+* **🐦 X (Twitter) Feed:** [@YashvirGamingX](https://x.com)
